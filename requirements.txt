@@ -1,0 +1,15 @@
+llama-index-llms-huggingface
+llama-index-embeddings-langchain
+pypdf
+python-dotenv
+transformers 
+einops 
+accelerate 
+sentence_transformers
+langchain 
+bitsandbytes
+llama-index
+nltk
+sounddevice
+git+https://github.com/huggingface/transformers.git accelerate datasets[audio]
+pydub
